@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/lebron-james-arthritis-pain-relief-cream/sitemap.xml
+Sitemap: https://lebron-james-arthritis-pain-relief-cream.vercel.app/sitemap-vercel.xml
+Sitemap: https://lebron-james-arthritis-pain-relief-cream.pages.dev/sitemap-cloudflare.xml
